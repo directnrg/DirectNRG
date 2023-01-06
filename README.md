@@ -13,7 +13,7 @@ I’m @directnrg
  Solo players could go faster at the beginning, but great teams always go further.
 </p>
 <p>
-🌱 I’m actively learning, reactJS, cloud platforms such as AWS, ExpressJS, Typescript, DevOps.
+🌱 I’m actively learning, VueJS, reactJS, cloud platforms such as AWS, ExpressJS, Typescript, DevOps.
 </p>
 <p>
 🧠 Things I'm knowledgeable of:

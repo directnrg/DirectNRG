@@ -6,8 +6,14 @@ I’m @directnrg
  <p> <img src="https://github.com/directnrg/directnrg/blob/main/profile-imgs/memoji-me.png" title="MyAvatar" alt="MyAvatar" width="100" height="auto"/>&nbsp;
 </p>
 </div>
+
+---
+
 <div align="center">
 <p>
+ 
+ ### :technologist:	About Me:
+ 
  👀 I’m interested in programming, gaming, development, innovation, business ideas.<br>
  I'm the type of person that loves learning, is a team worker and help others to grow. <br>
  Solo players could go faster at the beginning, but great teams always go further.
@@ -15,10 +21,15 @@ I’m @directnrg
 <p>
 🌱 I’m actively learning, VueJS, reactJS, cloud platforms such as AWS, ExpressJS, Typescript, DevOps.
 </p>
+ 
+ ---
+ 
 <p>
-🧠 Things I'm knowledgeable of:
+ 
+### 🧠 Things I'm knowledgeable of:
+ 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DotNet" alt="DotNet" width="40" height="40" style="pointer-events:none; color-background:white"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

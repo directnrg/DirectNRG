@@ -68,18 +68,31 @@ I’m @directnrg
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services Logo" width="40" height="40"/>&nbsp;
 </p>
 
+#### Devops
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure Devops"  alt="Azure Devops Logo" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins Logo" width="40" height="40"/>&nbsp;
+</p>
+
 #### Containerization
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker"  alt="Docker Logo" width="40" height="40"/>&nbsp;
+</p>
 
 #### VCS (Version Controlled Systems)
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket Logo" width="40" height="40"/>&nbsp;
+</p>
 
 #### IDE I use (Based on the type project)
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse"  alt="Eclipse Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jet Brains"  alt="Jet Brains Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
+</p>
+
 </div>
 
 

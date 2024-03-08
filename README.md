@@ -27,7 +27,7 @@ I’m @directnrg
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular Logo" width="40" height="40"/>&nbsp;
 
-### 🧠 Things I'm Knowledgeable of
+### 🧠 Things I'm Knowledgeable of:
 
 #### Programming Languages and Markups
 <p>

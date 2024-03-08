@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 <div align="center">
 <p>
-I’m @directnrg
+I’m Fabian Soto, also known as @directnrg
  </p>
  <p> <img src="https://github.com/directnrg/directnrg/blob/main/profile-imgs/memoji-me.png" title="MyAvatar" alt="MyAvatar" width="100" height="auto"/>&nbsp;
 </p>

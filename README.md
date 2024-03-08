@@ -14,7 +14,7 @@ I’m @directnrg
  
  ### :technologist:	About Me:
  
- 👀 I’m interested in Software Engineering, Software development, gaming, innovation, building ideas that could benefit the worldd.<br>
+ 👀 I’m interested in Software Engineering, Software development, gaming, innovation, building ideas that could benefit the world and society.<br>
  I'm the type of person that loves learning, is a team worker and help others to grow. <br>
  Solo players could go faster at the beginning, but great teams always go further.
 </p>

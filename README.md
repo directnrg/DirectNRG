@@ -31,7 +31,7 @@ I’m Fabian Soto, also known as @directnrg
 
 #### Programming Languages and Markups
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DotNet" alt="CSharp Logo" width="40" height="40" style="pointer-events:none; background-color:white;"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DotNet" alt="CSharp Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin Logo" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ I’m Fabian Soto, also known as @directnrg
 
 #### Frameworks & Libraries
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot NET Core" alt="Dot NET Core Logo" width="40" height="40" style="pointer-events:none; background-color:white;"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot NET Core" alt="Dot NET Core Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Dot NET"  alt="Dot NET Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -83,7 +83,7 @@ I’m Fabian Soto, also known as @directnrg
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket Logo" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github Logo" width="40" height="40" style="pointer-events:none; background-color:white;"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github Logo" width="40" height="40"/>&nbsp;
 </p>
 
 #### IDE I use (Based on the type project)

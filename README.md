@@ -14,19 +14,16 @@ I’m @directnrg
  
  ### :technologist:	About Me:
  
- 👀 I’m interested in programming, gaming, development, innovation, business ideas.<br>
+ 👀 I’m interested in Software Engineering, Software development, gaming, innovation, building ideas that could benefit the worldd.<br>
  I'm the type of person that loves learning, is a team worker and help others to grow. <br>
  Solo players could go faster at the beginning, but great teams always go further.
-</p>
-<p>
-🌱 I’m actively learning, VueJS, reactJS, cloud platforms such as AWS, ExpressJS, Typescript, DevOps.
 </p>
  
  ---
  
 <p>
 
-### Things I'm Actively learning 🧐
+### 🌱 Things I'm Actively learning 🧐
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go Logo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular Logo" width="40" height="40"/>&nbsp;
  
